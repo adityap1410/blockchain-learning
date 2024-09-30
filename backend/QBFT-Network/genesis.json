@@ -1,0 +1,36 @@
+
+{
+  "config" : {
+    "chainId" : 1337,
+    "berlinBlock" : 0,
+    "contractSizeLimit": 2147483647,
+    "qbft" : {
+      "blockperiodseconds" : 10,
+      "epochlength" : 30000,
+      "requesttimeoutseconds" : 4
+    }
+  },
+  "nonce" : "0x0",
+  "timestamp" : "0x58ee40ba",
+  "gasLimit" : "0x1fffffffffffff",
+  "difficulty" : "0x1",
+  "mixHash" : "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+  "coinbase" : "0x0000000000000000000000000000000000000000",
+  "alloc": {
+    "8b27b197836d9ecfca70ff3dc5b9fd0112fe311d": {
+      "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+    },
+    "74dd8e1954659530a7ce755b460e3c17e21a4e72": {
+      "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+    },
+    "483a92681087746d1b2cff1ae9a10dcb6fd660ce": {
+      "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+    },
+    "caba9851c5b8960363c29936a5e360c1b4a76328": {
+      "balance": "0x446c3b15f9926687d2c40534fdb564000000000000"
+    }
+  },
+    
+    
+  "extraData" : "0xf87aa00000000000000000000000000000000000000000000000000000000000000000f8549474dd8e1954659530a7ce755b460e3c17e21a4e7294caba9851c5b8960363c29936a5e360c1b4a76328948b27b197836d9ecfca70ff3dc5b9fd0112fe311d94483a92681087746d1b2cff1ae9a10dcb6fd660cec080c0"
+}

@@ -1,0 +1,15 @@
+});
+    value: ethers.utils.parseEther("10") // Send 10 ETH
+    to: 0x622Dbd1497da238AfeFE6De32D60a7efd5a18076,
+await deployer.sendTransaction({
+const [deployer, recipient] = await ethers.getSigners();
+});
+    value: ethers.utils.parseEther("10") // Send 10 ETH
+    to: recipient.address,
+await deployer.sendTransaction({
+const [deployer, recipient] = await ethers.getSigners();
+});
+    value: ethers.utils.parseEther("10") // Send 10 ETH
+    to: recipient.address,
+await deployer.sendTransaction({
+const [deployer, recipient] = await ethers.getSigners();
